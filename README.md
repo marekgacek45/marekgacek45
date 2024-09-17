@@ -18,7 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="26" height="26"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="26" height="26"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="26" height="26"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/php-original.svg" title="PHP" alt="PHP" width="26" height="26"/>&nbsp;
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=marekgacek45&style=flat-square&color=purple" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=marekgacek45&style=flat-square&color=blue" alt=""/>
