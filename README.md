@@ -26,4 +26,4 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=marekgacek45&style=flat-square&color=blue" alt=""/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Your-UserName&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marekgacek45&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
